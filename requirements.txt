@@ -1,8 +1,8 @@
-f5_sphinx_theme
+f5-sphinx-theme==2.6.1
 pre-commit
 recommonmark
-sphinx
-sphinx-copybutton
+sphinx==5.3.0
+sphinx-copybutton==0.5.2
 sphinxcontrib-blockdiag
 sphinxcontrib-nwdiag
 sphinxcontrib-serializinghtml
