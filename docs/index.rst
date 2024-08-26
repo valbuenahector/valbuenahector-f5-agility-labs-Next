@@ -8,9 +8,5 @@ Welcome to the |classbold| lab!
    :caption: Contents:
    :glob:
 
-   class1/class*
-   class2/class*
-   class3/class*
-   class5/class*
-   class6/class*
-   class8/class*
+   class*/class*
+
